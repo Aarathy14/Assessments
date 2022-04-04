@@ -1,0 +1,638 @@
+.content{
+    background-color: rgba(0,92,179,255);
+display: flex;
+justify-content: space-around;
+}
+.content1{
+    display: flex;
+    
+    color:#f0f8ff
+}
+.phone{
+
+    background-color: rgba(0,92,179,255);
+       display:flex;
+       color:aliceblue
+    
+}
+.icon{  
+   
+    background-color: rgba(0,92,179,255);
+    color:aliceblue
+}
+.Word{
+    display: flex;
+}
+.all{
+    margin-left: -20px;
+}
+.all1{
+    margin-left: 10px;    
+}
+.all2{
+    margin-left: 10px;
+}
+.all3{
+    margin-left: 10px;
+}
+.all4{
+    margin-left: 10px;
+    }
+.all5{
+    margin-left: 10px;
+}
+.both{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.family{
+    background-image: url("fourfamily.jpg");
+    padding-top: 500px;
+    background-repeat: no-repeat;
+   background-size: 1400px 600px;
+    margin-left: -1px;
+    padding-top: 100px;
+    padding-bottom: 550px;
+}
+.note{
+    margin-top: 300px;
+    margin-left: 600px;
+    font-family: Georgia, serif;
+    font-size: 3ch;
+    color:white;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+.note1{
+    margin-top: 10px;
+    margin-left: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4ch;
+    color:rgb(253, 253, 253);
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+.button{
+    margin-left: 700px;
+}
+.tag{
+    margin-top: -10px;
+}
+.box{
+    background-color:  rgba(0,92,179,255);
+    margin-right: 1250px;
+    margin-top: 15px;
+    padding: 10px;
+    color:aliceblue;
+    display: flex;
+}
+ .hi{
+     padding-top: 40%;
+    
+ }
+
+.a{
+    
+justify-content: space-evenly;
+padding-top: 10%;
+}
+
+.real1{
+
+  background-repeat: no-repeat;
+  margin-left: 600px;
+}
+.allicon{
+    margin-left: 15%;
+    margin-top: -500px;
+}
+.a{
+    padding-top: 10px;
+    margin-left: 600px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1cm;
+
+}
+.b{
+    padding-top: 10px;
+    margin-left: 620px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.build1{
+    background-image: url("building1.jpg");
+    padding-top: 500px;
+    background-repeat: no-repeat;
+   background-size: 800px 500px;
+    margin-left: 20%;
+    padding-top: 100px;
+    padding-bottom: 550px;
+}
+.c{
+    background-color: rgba(0,92,179,255) ;
+   
+    margin-left:60%;
+    margin-right:10%;
+    padding: 90px 10px;
+    color: aliceblue;
+    
+    
+    
+}
+.common{
+    display: flex;
+    
+}
+.a1{
+    display: flex;
+    
+}
+.a2{
+    margin-top: -5px;
+}
+.common1{
+     display: flex;
+     margin-left:40px;
+
+}
+.b1{
+    margin-top: -5px;
+   
+}
+.common2{
+    margin-left: 25px;
+    margin-top: -5px;
+}
+.c1{
+ margin-top: -25px;
+ margin-left: 15px;
+}
+
+.common3{
+    margin-top: 30px;
+    margin-left: -250px;  
+}
+.common4{
+   margin-top :40px;
+   margin-left: 100px;
+ 
+  
+}
+.d1{
+    margin-left: -10px;
+}
+.d2{
+    margin-top: -25px;
+    margin-left: 20px;
+}
+.three{
+    margin-top: -400px;
+    padding:  60px;
+}
+.add{
+ margin-top: 10px;
+ margin-left: 70px;
+}
+.add1{
+    margin-left: 500px;
+    margin-top: -40px;
+}
+.add2{
+    margin-left: 1000px;
+    margin-top: -50px;
+}
+.click{
+    margin-left: 650px;
+    color:rgba(0,92,179,255)
+}
+.click1{
+    margin-left: 630px;
+    color:rgb(104, 97, 97)
+}
+
+.design1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 4ch;
+  margin-left: 70px;
+}
+.design2{
+    
+ margin-top: 100px;
+  margin-left: 70px;
+}
+.design3{
+    margin-left: 750px;
+    margin-top: -250px;
+}
+.sign{
+    margin-top: -150px;
+    margin-left: 70px;
+}
+.client{
+    margin-left: 500px;
+    margin-top: 150px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.name{
+    margin-left: 560px;
+    margin-top: 40px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.name1{
+    margin-left: 560px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.name3{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.name4{
+    margin-left: 250px;}
+.name5{
+    margin-left: 290px;
+  
+}
+.e{
+    margin-top: -90px;
+    margin-left: 150px;
+}
+.line{
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+.face img{
+   border-radius: 50%;
+   opacity: 60%;
+   margin-left: 180px;
+}
+.face1 img{
+    border-radius: 50%;
+    opacity: 60%;
+    margin-top: -120px;
+    margin-left: 380px;
+}
+.face2 img{
+    border-radius: 50%;
+    margin-top: -160px;
+    margin-left: 580px;
+    border :2px rgba(0,92,179,255) solid 
+}
+.face3 img{
+    border-radius: 50%;
+    opacity: 60%;
+    margin-top: -200px;
+    margin-left: 760px;
+}
+.face4 img{
+    border-radius: 50%;
+    opacity: 60%;
+    margin-top: -250px;
+    margin-left: 950px;
+}
+.dot{
+    margin-left: 563px;
+    margin-top: -50px;
+}
+.blog{
+    margin-left: 580px;
+    margin-top: 50px;
+}
+.house1{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.house2{
+    margin-left: 570px;
+    margin-top: -700px;
+}
+.house3{
+    margin-left: 570px;
+    margin-top: 20px;
+}
+.house4{
+    margin-left: 970px;
+    margin-top: -700px;
+}
+.house5{
+    margin-left: 970px;
+    margin-top: 20px;
+}
+.f1{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3ch;
+    margin-top: -250px;
+    margin-left: 40px;
+    
+}
+.f2{
+    width: 20%;
+    margin-left: 40px;
+    color: aliceblue;
+}
+.f3{
+    margin-left: 40px;
+    color:rgb(0, 110, 255);
+}
+.f4{
+    margin-top: 10px;
+    margin-left: 40px;
+    color:aliceblue   
+}
+.g1{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2ch;
+    margin-top: -450px;
+    margin-left: 600px;
+}
+.g2{
+    width: 20%;
+    margin-left: 550px;
+    color: aliceblue;
+}
+.g3{
+ margin-left: 600px;   
+ color: rgb(0, 110, 255);
+}
+.H1{
+    color:aliceblue;
+    margin-left: 600px;
+    margin-top: 300px;
+}
+.h2{
+    width: 20%;
+    margin-left: 550px;
+    color: aliceblue; 
+}
+.H3{
+    margin-left: 600px;   
+    color: rgb(0, 110, 255);  
+
+}
+.i1{
+    color:white;
+    margin-left: 1000px;
+    margin-top: -490px;
+}
+.i2{
+    width: 20%;
+    margin-left: 970px;
+    color: aliceblue; 
+}
+.I3{
+    margin-left: 1000px;   
+    color: rgb(0, 110, 255);  
+}
+.j1{
+    color:aliceblue;
+    margin-left: 1000px;
+    margin-top: 300px;
+}
+.j2{
+    width: 20%;
+    margin-left: 970px;
+    color:whitesmoke
+}
+.j3{
+    margin-left: 1000px;   
+    margin-top: -10px;
+    color: blue;
+}
+.blue{
+    background-color: rgba(0,92,179,255);
+    margin-top: 100px;
+    padding: 40px;
+}
+.every{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1cm;
+    margin-left: 400px;
+    padding-top: 5%;
+}
+.thing{
+
+ color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-left: 200px;
+    padding-top: 2%;
+}
+.thing1{
+
+    color:white;
+       font-family: 'Times New Roman', Times, serif;
+       font-size: large;
+       margin-left: 270px;
+   }
+   .email{
+       margin-left: 20%;
+       margin-top: 50px;
+   }
+   .k{
+      
+     
+       margin-left: 64%;
+       margin-top: -45px;
+     
+   }
+   .k1{
+background-color: #2054a4;
+padding: 10px 50px;
+border-radius: 6px;
+border: none;
+color: antiquewhite;
+   }
+.fullhouse{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url("fullhouse1.webp");
+    background-size: 1400px 500px;
+    background-repeat: no-repeat;
+    padding: 500px;
+}
+.l{
+ color:#1058c4;
+ margin-left: 500px;
+ margin-top: -800px;
+ font-size: 2cm;
+}
+.L1{
+    color:#1058c4;
+ margin-left: 620px;
+ margin-top: -115px;
+ font-size: 2cm;
+}
+.l2{
+    color:white;
+ margin-left: 660px;
+ margin-top: -115px;
+ font-size: 2cm;
+}
+.m{
+    display: flex;
+}
+.m1{
+    color: aliceblue;
+    margin-left: 450px;
+    font-size: large;
+}
+.m2{
+    color: aliceblue;
+    margin-left: 80px;
+    font-size: large;
+}
+.m3{
+    color: aliceblue;
+    margin-left: 80px;
+    font-size: large;
+}
+.m4{
+    color: aliceblue;
+    margin-left: 90px;
+    font-size: large;
+}
+.m5{
+    color: aliceblue;
+    margin-left: 70px;
+    font-size: large;
+}
+.n1{
+    margin-top: 20%;
+    margin-left: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+
+.n2{
+    margin-top: 25px;
+    margin-left: 150px;
+}
+.o{
+    margin-top: -224px;
+    margin-left: 25%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.o1{
+    margin-left: 25%;
+    margin-top: 25px;
+}
+.o2{
+    margin-left: 25%;
+    margin-top: 25px;
+}
+.o3{
+    margin-left: 25%;
+    margin-top: 25px;
+}
+.o4{
+    margin-left: 25%;
+    margin-top: 25px;
+}
+.p{
+     margin-top: -226px;
+     margin-left: 43%;
+     font-size: larger;
+     font-style:'Times New Roman', Times, serif
+}
+.p1{
+    margin-left: 40%;
+    margin-top: 25px ;
+}
+.p2{
+    margin-left: 40%;
+    margin-top: 25px ;
+}
+.p3{
+    margin-left: 48%;
+    margin-top: -15% ;
+}
+.p4{
+    margin-left: 50%;
+    margin-top: 0.2% ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.p5{
+margin-left: 48%;
+margin-top: 40px;
+}
+.p6{
+    margin-left: 50%;
+margin-top: 2px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.p7{
+    margin-top: -246px;
+     margin-left: 65%;
+     font-size: larger;
+     font-style:'Times New Roman', Times, serif
+}
+.p8{
+    margin-left: 65%;
+    margin-top: 25px;
+}
+.p9{
+    margin-left: 68%;
+    margin-top: -2%;
+}
+.p10{
+    margin-left: 65%;
+    margin-top: 2%;
+}
+.p11{
+    margin-left: 68%;
+    margin-top: -2%;
+}
+.p12{
+    margin-left: 65%;
+    margin-top: 2%;
+}
+.p13{
+    margin-left: 68%;
+    margin-top: -2%;
+}
+.black{
+    background-color: black;
+    margin-top: 100px;
+    padding: 50px;
+}
+.q{
+    margin-top: -40px;
+    color:aliceblue;
+    margin-left: 10px;
+}
+
+.q1{
+    margin-top: -65px;
+    color:aliceblue;
+    margin-left: 40px;
+}
+.q2{
+    margin-left: 70%;
+    margin-top: -40px;
+    color: aliceblue;
+}
+.q3{
+    margin-left: 77%;
+    margin-top: -36px;
+    color: aliceblue;
+}
+.q4{
+    margin-left: 78%;
+    margin-top: -30px;
+    color: aliceblue;
+}
+.building1{
+    margin-left:8%;
+}
+.building2{
+    margin-left:38%;
+    margin-top: -24%;
+}
+.building3{
+    margin-left:70%;
+    margin-top: -24%;
+}
